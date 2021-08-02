@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cryptosite.github.io/static/css/main.ad838ff9.chunk.css",
+    "main.js": "/cryptosite.github.io/static/js/main.79e1e9ad.chunk.js",
+    "main.js.map": "/cryptosite.github.io/static/js/main.79e1e9ad.chunk.js.map",
+    "runtime-main.js": "/cryptosite.github.io/static/js/runtime-main.b0c8172f.js",
+    "runtime-main.js.map": "/cryptosite.github.io/static/js/runtime-main.b0c8172f.js.map",
+    "static/css/2.39596b15.chunk.css": "/cryptosite.github.io/static/css/2.39596b15.chunk.css",
+    "static/js/2.7a00cb5b.chunk.js": "/cryptosite.github.io/static/js/2.7a00cb5b.chunk.js",
+    "static/js/2.7a00cb5b.chunk.js.map": "/cryptosite.github.io/static/js/2.7a00cb5b.chunk.js.map",
+    "index.html": "/cryptosite.github.io/index.html",
+    "precache-manifest.66cba4037ca530e686d094b32429bdf1.js": "/cryptosite.github.io/precache-manifest.66cba4037ca530e686d094b32429bdf1.js",
+    "service-worker.js": "/cryptosite.github.io/service-worker.js",
+    "static/css/2.39596b15.chunk.css.map": "/cryptosite.github.io/static/css/2.39596b15.chunk.css.map",
+    "static/css/main.ad838ff9.chunk.css.map": "/cryptosite.github.io/static/css/main.ad838ff9.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0c8172f.js",
+    "static/css/2.39596b15.chunk.css",
+    "static/js/2.7a00cb5b.chunk.js",
+    "static/css/main.ad838ff9.chunk.css",
+    "static/js/main.79e1e9ad.chunk.js"
+  ]
+}
